@@ -1,0 +1,45 @@
+h1{
+background-color: #c0c0c0;
+display: block;
+margin:  0 0 20px;
+padding: 10px 25px;
+width: 50%;
+text-align: center;
+width: 455px;
+margin: 0 auto;
+text-shadow: 12px 13px 14px #000000 ;
+border: 1px solid;
+background-color: #ff0000;
+text-align: center;
+border-radius: 10px ;
+}
+p {
+	text-align: center;
+	font-size: 15px;
+}
+em strong {
+	color: #FF0000;
+}
+h1{
+text-align: center;
+}
+
+main  {
+    width: 455px;
+    margin: 0 auto;
+text-shadow: 12px 13px 14px #000000 ;
+border: 1px solid;
+background-color: #ff0000;
+text-align: center;
+border-radius: 10px ;
+}
+#caixa {
+display: block;
+background: #00ffff;
+border-radius: 10px ;
+
+}
+h4{
+text-align: center;
+text-shadow: 12px 13px 14px #000;
+}
