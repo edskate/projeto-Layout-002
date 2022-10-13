@@ -10,3 +10,5 @@ Criando página Web com HTML & CSS.
 >You must be the change you wish to see in the world. 
 
 >Every moment is a fresh beginning. ✨
+
+>Live what you love. 
